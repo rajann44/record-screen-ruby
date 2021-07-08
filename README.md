@@ -7,7 +7,7 @@
 This is dummy project which records screen when a test fails
 
 - ✨Ruby
-- ✨If you get erro install 'ffmpeg' using homebrew
+- ✨If you get error install 'ffmpeg' using homebrew
 
 ## Features
 
